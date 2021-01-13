@@ -1,4 +1,4 @@
-#python robots class
+#A Python robot class developed by Bin Wang at RMIT University
 import serial,math,string,time,msvcrt
 wheelSpeeds=[5,5]
  
